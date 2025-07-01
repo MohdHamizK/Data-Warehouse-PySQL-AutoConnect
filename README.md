@@ -1,6 +1,6 @@
 # Sales Data Warehouse Automation
 
-A modular Python-based system for refreshing materialized views, querying sales data, and sending automated reports via email.
+A modular Python-based system for refreshing materialized views, querying sales data, and sending automated reports via email. This automation streamlines data management, reduces manual effort, and empowers our team with real-time access to crucial sales information, ultimately driving better decision-making.
 
 ## Features
 - PostgreSQL star schema
