@@ -1,0 +1,29 @@
+2025-06-23 16:36:33,286 - ERROR - \u274c Failed to refresh materialized view: relation "mv_sales_by_category" does not exist
+
+2025-06-23 16:36:35,640 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:36:35,709 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:36:40,885 - INFO - \u2705 Email sent successfully!
+2025-06-23 16:39:11,346 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 16:39:18,029 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:39:18,120 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:39:22,371 - INFO - \u2705 Email sent successfully!
+2025-06-23 16:53:52,685 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:53:52,757 - INFO - \u2705 Query executed successfully.
+2025-06-23 16:53:56,564 - INFO - \u2705 Email sent successfully!
+2025-06-23 16:54:00,923 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 17:19:32,297 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:19:32,393 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:19:37,480 - INFO - \u2705 Email sent successfully!
+2025-06-23 17:20:04,696 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 17:30:50,689 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 17:30:52,638 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:30:52,739 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:30:57,129 - INFO - \u2705 Email sent successfully!
+2025-06-23 17:53:50,726 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 17:53:54,121 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:53:54,180 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:53:57,878 - INFO - \u2705 Email sent successfully!
+2025-06-23 17:54:13,802 - INFO - \u2705 Materialized view refreshed successfully.
+2025-06-23 17:54:17,465 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:54:17,553 - INFO - \u2705 Query executed successfully.
+2025-06-23 17:54:20,732 - INFO - \u2705 Email sent successfully!

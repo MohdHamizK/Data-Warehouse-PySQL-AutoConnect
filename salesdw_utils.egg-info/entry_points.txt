@@ -1,0 +1,2 @@
+[console_scripts]
+send-sales-report = sales_dw_utils.cli:cli

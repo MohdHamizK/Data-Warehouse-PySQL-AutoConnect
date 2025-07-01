@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools >= 64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "salesdw-utils"
+version = "0.1"
+dependencies = [
+    "psycopg2-binary",
+    "python-dotenv"
+]
+
+[project.scripts]
+send-sales-report = "sales_dw_utils.cli:cli"
